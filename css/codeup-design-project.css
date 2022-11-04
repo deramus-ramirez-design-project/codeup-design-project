@@ -1,0 +1,15 @@
+/*.navbar-toggler-icon{*/
+/*    display: flex;*/
+/*    flex-direction: row-reverse;*/
+/*}*/
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    /*flex-direction: row-reverse;*/
+    margin: 0;
+}
+.img{
+
+    height: 105px;
+    width: 105px;
+}
