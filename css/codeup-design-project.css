@@ -54,7 +54,11 @@ body{
 }
 
 .buttons div{
+<<<<<<< HEAD
     display: flex;
+=======
+display: flex;
+>>>>>>> 82bfa7e0231015205c14fc7505d5921ac9d3b8f2
     justify-content: center;
     flex-direction: row;
     padding: 1em;
@@ -62,8 +66,17 @@ body{
 
 }
 
+<<<<<<< HEAD
 #design{
     background-color: #E6563B;
+=======
+/*.row{*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*}*/
+#design{
+background-color: #E6563B;
+>>>>>>> 82bfa7e0231015205c14fc7505d5921ac9d3b8f2
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -73,7 +86,11 @@ body{
     color: white;
 }
 #develop{
+<<<<<<< HEAD
     background-color: #EB9D3A;
+=======
+background-color: #EB9D3A;
+>>>>>>> 82bfa7e0231015205c14fc7505d5921ac9d3b8f2
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -85,7 +102,11 @@ body{
 }
 
 #support{
+<<<<<<< HEAD
     background-color: #7CB06C;
+=======
+background-color: #7CB06C;
+>>>>>>> 82bfa7e0231015205c14fc7505d5921ac9d3b8f2
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -97,7 +118,11 @@ body{
 }
 
 #host{
+<<<<<<< HEAD
     background-color: #00ABA9;
+=======
+background-color: #00ABA9;
+>>>>>>> 82bfa7e0231015205c14fc7505d5921ac9d3b8f2
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -111,6 +136,7 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+<<<<<<< HEAD
 .red{
     display: flex;
     justify-content: center;
@@ -176,3 +202,6 @@ h6{
 h3{
     font-family: anton;
 }
+=======
+
+>>>>>>> 82bfa7e0231015205c14fc7505d5921ac9d3b8f2
